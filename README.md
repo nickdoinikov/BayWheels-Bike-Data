@@ -1,20 +1,20 @@
-### Date created
 Date created: 17 June 2020
 
-### Project Title
-***Communicate Data Findings***
+### Communicate Data Findings
 
-### Description
 This project in the last part of the ***"Data Analyst Nanodegree"*** by Udacity. In this Project, I briefly wrangled and thoroughly analysed a dataset of the bike company BayWheels.
 The two main goals of this project were:
+
 _1. Perform **Exploratory Data Visualisation**._
+
 This part of the analysis has multiple helps to do the following things:
   * understand the patterns and relationships present in the data;
   * perform statistical analyses;
   * build conclusions and findings
-_2. Perform **Explanatory Data Visualisation**._
-This part of the analysis has a goal of being able to communicate the results to others. This part is quite similar to the exploratory part, but requires much more visual polishing and explanation.
 
+_2. Perform **Explanatory Data Visualisation**._
+
+This part of the analysis has a goal of being able to communicate the results to others. This part is quite similar to the exploratory part, but requires much more visual polishing and explanation.
 
 ### Files used
 I used the following files to accomplish the project:
